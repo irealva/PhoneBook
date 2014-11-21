@@ -65,5 +65,4 @@ Part1 - includes all files for the TTS component.
 Part 2 - includes all folders for the ASR component.
 The grammars are in /part2. They are: gramTelephone, gramState, gramPerson, gramArea, gramConfirmation, gramMain
 
-To run the program type in “$./phoneBook.sh” in the /part2 folder.
-
+The program "phoneBook.sh" can be found in the /part2 folder.
