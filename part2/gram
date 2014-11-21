@@ -1,0 +1,15 @@
+$digit = ONE | TWO | THREE | FOUR | FIVE | SIX | SEVEN | EIGHT | NINE | ZERO  ;
+$state = NEW YORK | MASSACHUSETTS | CALIFORNIA | WYOMING | UTAH | TEXAS | NEW JERSEY | FLORIDA ;
+$name = IRENE | ANATOLIY | DAVID | MAX | JULIE ;
+ 
+(SENT-START
+	(WHAT IS $name PHONE NUMBER | DOES $name LIVE IN $state | WHERE DOES $name LIVE
+	  | WHAT STATE IS $name FROM | WHERE IS $name FROM | IS $name FROM $state)
+	| (WHOSE NUMBER IS $digit $digit $digit $digit $digit $digit $digit $digit $digit $digit 
+	  | WHAT STATE IS $digit $digit $digit $digit $digit $digit $digit $digit $digit $digit FROM
+	  | WHERE IS $digit $digit $digit $digit $digit $digit $digit $digit $digit $digit FROM)
+	| (IS $name NUMBER $digit $digit $digit $digit $digit $digit $digit $digit $digit $digit)
+	| (IS $digit $digit $digit $digit $digit $digit $digit $digit $digit $digit $name NUMBER
+	  | WHAT STATE IS $digit $digit $digit FROM)
+	| (WHAT IS $state AREA CODE)
+ SENT-END)

@@ -1,0 +1,7 @@
+$digit = ONE | TWO | THREE | FOUR | FIVE | SIX | SEVEN | EIGHT | NINE | ZERO  ;
+ 
+(SENT-START 
+	(GO BACK | BACK) |
+	(WHAT STATE IS $digit $digit $digit [FROM | FOR | OF | ASSOCIATED WITH]
+	| WHERE IS $digit $digit $digit [FROM | FOR | OF])
+ SENT-END)

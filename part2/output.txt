@@ -1,0 +1,5458 @@
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state2_16000.wav -> inputs/state2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/area2_16000.wav -> inputs/area2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person3_16000.wav -> inputs/person/person3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person4_16000.wav -> inputs/person/person4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person5_16000.wav -> inputs/person/person5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person6_16000.wav -> inputs/person/person6_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person3_16000.wav -> inputs/person/person3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person4_16000.wav -> inputs/person/person4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person5_16000.wav -> inputs/person/person5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person6_16000.wav -> inputs/person/person6_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back1_16000.wav -> inputs/back1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back2_16000.wav -> inputs/back2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person3_16000.wav -> inputs/person/person3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person4_16000.wav -> inputs/person/person4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person5_16000.wav -> inputs/person/person5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person6_16000.wav -> inputs/person/person6_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back1_16000.wav -> inputs/back1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back2_16000.wav -> inputs/back2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person3_16000.wav -> inputs/person/person3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person4_16000.wav -> inputs/person/person4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person5_16000.wav -> inputs/person/person5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person6_16000.wav -> inputs/person/person6_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back3_16000.wav -> inputs/back3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back4_16000.wav -> inputs/back4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person3_16000.wav -> inputs/person/person3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person4_16000.wav -> inputs/person/person4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person5_16000.wav -> inputs/person/person5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person6_16000.wav -> inputs/person/person6_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back3_16000.wav -> inputs/back3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back4_16000.wav -> inputs/back4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back1_16000.wav -> inputs/back1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back2_16000.wav -> inputs/back2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person3_16000.wav -> inputs/person/person3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person4_16000.wav -> inputs/person/person4_16000.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person3_16000.wav -> inputs/person/person3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person3_16000.wav -> inputs/person/person3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/area1_16000.wav -> inputs/area1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person3_16000.wav -> inputs/person/person3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person4_16000.wav -> inputs/person/person4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person5_16000.wav -> inputs/person/person5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person6_16000.wav -> inputs/person/person6_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back3_16000.wav -> inputs/back3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back4_16000.wav -> inputs/back4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back4_16000.wav -> inputs/back4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back4_16000.wav -> inputs/back4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back4_16000.wav -> inputs/back4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back4_16000.wav -> inputs/back4_16000.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person2_16000.wav -> inputs/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person3_16000.wav -> inputs/person/person3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone1_16000.wav -> inputs/telephone/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone1_16000.wav -> inputs/telephone/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone2_16000.wav -> inputs/telephone/telephone2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone2_16000.wav -> inputs/telephone/telephone2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone1_16000.wav -> inputs/telephone/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone3_16000.wav -> inputs/telephone/telephone3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone4_16000.wav -> inputs/telephone/telephone4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone5_16000.wav -> inputs/telephone/telephone5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone6_16000.wav -> inputs/telephone/telephone6_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back3_16000.wav -> inputs/back3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back3_16000.wav -> inputs/back3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back3_16000.wav -> inputs/back3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back3_16000.wav -> inputs/back3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back3_16000.wav -> inputs/back3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone1_16000.wav -> inputs/telephone/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone1_16000.wav -> inputs/telephone/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone1_16000.wav -> inputs/telephone/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone2_16000.wav -> inputs/telephone/telephone2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone3_16000.wav -> inputs/telephone/telephone3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone5_16000.wav -> inputs/telephone/telephone5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone4_16000.wav -> inputs/telephone/telephone4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone6_16000.wav -> inputs/telephone/telephone6_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state1_16000.wav -> inputs/state1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state/state1_16000.wav -> inputs/state/state1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state1_16000.wav -> inputs/state1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state/state1_16000.wav -> inputs/state/state1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state1_16000.wav -> inputs/state1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state/state1_16000.wav -> inputs/state/state1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state1_16000.wav -> inputs/state1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state/state2_16000.wav -> inputs/state/state2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state1_16000.wav -> inputs/state1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state/state3_16000.wav -> inputs/state/state3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state1_16000.wav -> inputs/state1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state/state4_16000.wav -> inputs/state/state4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state1_16000.wav -> inputs/state1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back3_16000.wav -> inputs/back3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state1_16000.wav -> inputs/state1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back3_16000.wav -> inputs/back3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state1_16000.wav -> inputs/state1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back3_16000.wav -> inputs/back3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state1_16000.wav -> inputs/state1_16000.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+inputs/area2_16000.wav -> inputs/area2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/area/area1_16000.wav -> inputs/area/area1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/area2_16000.wav -> inputs/area2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/area/area2_16000.wav -> inputs/area/area2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/area2_16000.wav -> inputs/area2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/area/area3_16000.wav -> inputs/area/area3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/area2_16000.wav -> inputs/area2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back3_16000.wav -> inputs/back3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/area2_16000.wav -> inputs/area2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/back3_16000.wav -> inputs/back3_16000.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con1_16000.wav -> inputs/confirmation/con1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con1_16000.wav -> inputs/confirmation/con1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con2_16000.wav -> inputs/confirmation/con2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con2_16000.wav -> inputs/confirmation/con2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con3_16000.wav -> inputs/confirmation/con3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con2_16000.wav -> inputs/confirmation/con2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con3_16000.wav -> inputs/confirmation/con3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con4_16000.wav -> inputs/confirmation/con4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con4_16000.wav -> inputs/confirmation/con4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con5_16000.wav -> inputs/confirmation/con5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con6_16000.wav -> inputs/confirmation/con6_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con7_16000.wav -> inputs/confirmation/con7_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con8_16000.wav -> inputs/confirmation/con8_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con1_16000.wav -> inputs/confirmation/con1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con2_16000.wav -> inputs/confirmation/con2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con3_16000.wav -> inputs/confirmation/con3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con4_16000.wav -> inputs/confirmation/con4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con8_16000.wav -> inputs/confirmation/con8_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con4_16000.wav -> inputs/confirmation/con4_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone6_16000.wav -> inputs/telephone/telephone6_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone5_16000.wav -> inputs/telephone/telephone5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone5_16000.wav -> inputs/telephone/telephone5_16000.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person6_16000.wav -> inputs/person/person6_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person6_16000.wav -> inputs/person/person6_16000.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person6_16000.wav -> inputs/person/person6_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person5_16000.wav -> inputs/person/person5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person7_16000.wav -> inputs/person/person7_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person7_16000.wav -> inputs/person/person7_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person7_16000.wav -> inputs/person/person7_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person7_16000.wav -> inputs/person/person7_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person7_16000.wav -> inputs/person/person7_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person7_16000.wav -> inputs/person/person7_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person6_16000.wav -> inputs/person/person6_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person8_16000.wav -> inputs/person/person8_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person9_16000.wav -> inputs/person/person9_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person7_16000.wav -> inputs/person/person7_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person8_16000.wav -> inputs/person/person8_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person8_16000.wav -> inputs/person/person8_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person8_16000.wav -> inputs/person/person8_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person8_16000.wav -> inputs/person/person8_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person7_16000.wav -> inputs/person/person7_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person6_16000.wav -> inputs/person/person6_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person2_16000.wav -> inputs/person/person2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person7_16000.wav -> inputs/person/person7_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person3_16000.wav -> inputs/person/person3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person3_16000.wav -> inputs/person/person3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person3_16000.wav -> inputs/person/person3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person3_16000.wav -> inputs/person/person3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone1_16000.wav -> inputs/telephone/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone1_16000.wav -> inputs/telephone/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone1_16000.wav -> inputs/telephone/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone3_16000.wav -> inputs/telephone/telephone3_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone5_16000.wav -> inputs/telephone/telephone5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone6_16000.wav -> inputs/telephone/telephone6_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone6_16000.wav -> inputs/telephone/telephone6_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone6_16000.wav -> inputs/telephone/telephone6_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/area1_16000.wav -> inputs/area1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state2_16000.wav -> inputs/state2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state/state1_16000.wav -> inputs/state/state1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state2_16000.wav -> inputs/state2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state/state1_16000.wav -> inputs/state/state1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/area2_16000.wav -> inputs/area2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/area/area1_16000.wav -> inputs/area/area1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con1_16000.wav -> inputs/confirmation/con1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/area/area1_16000.wav -> inputs/area/area1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/area/area1_16000.wav -> inputs/area/area1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone5_16000.wav -> inputs/telephone/telephone5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone5_16000.wav -> inputs/telephone/telephone5_16000.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone5_16000.wav -> inputs/telephone/telephone5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone5_16000.wav -> inputs/telephone/telephone5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone5_16000.wav -> inputs/telephone/telephone5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone5_16000.wav -> inputs/telephone/telephone5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone5_16000.wav -> inputs/telephone/telephone5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone5_16000.wav -> inputs/telephone/telephone5_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone1_16000.wav -> inputs/telephone/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+output.wav -> output.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone1_16000.wav -> inputs/telephone/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone1_16000.wav -> inputs/telephone/telephone1_16000.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+4final.wav -> 4final.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person1_16000.wav -> inputs/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/person/person1_16000.wav -> inputs/person/person1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/exit_16000.wav -> inputs/exit_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone1_16000.wav -> inputs/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/telephone/telephone1_16000.wav -> inputs/telephone/telephone1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/exit_16000.wav -> inputs/exit_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state2_16000.wav -> inputs/state2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/state/state1_16000.wav -> inputs/state/state1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/exit_16000.wav -> inputs/exit_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/area2_16000.wav -> inputs/area2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/area/area1_16000.wav -> inputs/area/area1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/exit_16000.wav -> inputs/exit_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con1_16000.wav -> inputs/confirmation/con1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/exit_16000.wav -> inputs/exit_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con2_16000.wav -> inputs/confirmation/con2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/exit_16000.wav -> inputs/exit_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation1_16000.wav -> inputs/confirmation1_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/confirmation/con2_16000.wav -> inputs/confirmation/con2_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/exit_16000.wav -> inputs/exit_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/final/1main_16000.wav -> inputs/final/1main_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/final/2person_16000.wav -> inputs/final/2person_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/final/3telephone_16000.wav -> inputs/final/3telephone_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/final/4telephone_16000.wav -> inputs/final/4telephone_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/final/5state_16000.wav -> inputs/final/5state_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/final/6state_16000.wav -> inputs/final/6state_16000.mfc 
+run Viterbi
+extract mfcc features using 16KHz wave files
+inputs/final/1main_16000.wav -> inputs/final/1main_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/final/2person_16000.wav -> inputs/final/2person_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/final/3telephone_16000.wav -> inputs/final/3telephone_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/final/4telephone_16000.wav -> inputs/final/4telephone_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/final/5state_16000.wav -> inputs/final/5state_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/final/6state_16000.wav -> inputs/final/6state_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/final/7area_16000.wav -> inputs/final/7area_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/final/8area_16000.wav -> inputs/final/8area_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/final/9confirmation_16000.wav -> inputs/final/9confirmation_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/final/10confirmation_16000.wav -> inputs/final/10confirmation_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+inputs/final/11exit_16000.wav -> inputs/final/11exit_16000.mfc 
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf
+extract mfcc features using 16KHz wave files
+run Viterbi
+
+output is out.mlf

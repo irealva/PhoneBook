@@ -1,0 +1,12 @@
+#!/bin/bash
+
+##play instructions/greeting.wav
+##play instructions/instruction.wav
+##play instructions/back.wav
+
+
+SCRIPTNAME=asrMain.pl
+
+#./$SCRIPTNAME $1
+./$SCRIPTNAME 
+

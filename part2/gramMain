@@ -1,0 +1,6 @@
+$options = PERSON | STATE | TELEPHONE | AREA CODE | CONFIRMATION | MAIN | EXIT ;
+
+ 
+(SENT-START
+	($options)
+SENT-END)

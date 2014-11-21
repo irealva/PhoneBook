@@ -1,0 +1,21 @@
+$digit = ONE | TWO | THREE | FOUR | FIVE | SIX | SEVEN | EIGHT | NINE | ZERO  ;
+$state = NEW YORK | MASSACHUSETTS | CALIFORNIA | TEXAS | FLORIDA ;
+$name = IRENE | ANATOLIY | DAVID | MAX | JULIE ;
+ 
+(SENT-START
+	(GO BACK | BACK) |
+	(DOES $name [LIVE | RESIDE] IN $state
+	| IS $name FROM $state | IS $state WHERE $name (LIVES | RESIDES) [IN])
+
+	| (IS $name [PHONE | TELEPHONE] NUMBER $digit $digit $digit $digit $digit $digit $digit $digit $digit $digit 
+	| IS $digit $digit $digit $digit $digit $digit $digit $digit $digit $digit $name [PHONE | TELEPHONE] NUMBER)
+
+	| (IS $digit $digit $digit (A $state AREA CODE | AN AREA CODE OF $state)
+	| IS $state AREA CODE $digit $digit $digit
+	| IS THE AREA CODE OF $state $digit $digit $digit
+	| DOES $state HAVE (A $digit $digit $digit AREA CODE | AN AREA CODE $digit $digit $digit))
+	
+	| (IS $digit $digit $digit $digit $digit $digit $digit $digit $digit $digit A $state [PHONE | TELEPHONE] NUMBER
+	| IS THE [PHONE | TELEPHONE] NUMBER $digit $digit $digit $digit $digit $digit $digit $digit $digit $digit A $state NUMBER
+	| IS $digit $digit $digit $digit $digit $digit $digit $digit $digit $digit A [PHONE | TELEPHONE] NUMBER OF $state)
+ SENT-END)

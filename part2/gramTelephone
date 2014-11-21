@@ -1,0 +1,12 @@
+$digit = ONE | TWO | THREE | FOUR | FIVE | SIX | SEVEN | EIGHT | NINE | ZERO  ;
+ 
+(SENT-START
+	(GO BACK) |
+	(WHOSE [TELEPHONE|PHONE] NUMBER IS $digit $digit $digit $digit $digit $digit $digit $digit $digit $digit 
+	| TO WHOM DOES $digit $digit $digit $digit $digit $digit $digit $digit $digit $digit BELONG 
+	| WHO OWNS THE [TELEPHONE | PHONE] NUMBER $digit $digit $digit $digit $digit $digit $digit $digit $digit $digit
+	| WHOSE [TELEPHONE|PHONE] IS $digit $digit $digit $digit $digit $digit $digit $digit $digit $digit
+	| WHO OWNS THE [TELEPHONE | PHONE] $digit $digit $digit $digit $digit $digit $digit $digit $digit $digit)
+	| (WHAT STATE IS $digit $digit $digit $digit $digit $digit $digit $digit $digit $digit FROM
+	| WHERE IS $digit $digit $digit $digit $digit $digit $digit $digit $digit $digit FROM)
+ SENT-END)
